@@ -9,3 +9,8 @@ This repository contains code listings for ALX interview questions. The code lis
 
 - [Pascals Triangle](pascals_triangle)
     - Contains code listings for the Pascals Triangle problem.
+ 
+- [Lockboxes](0x01-lockboxes)
+    - You have `n` number of locked boxes in front of you. Each box is numbered sequentially from `0` to `n - 1` and each box may contain keys to the other boxes.
+
+    - Write a method `canUnlockAll(boxes)` that determines if all the `boxes` can be opened.
