@@ -4,7 +4,7 @@ This repository contains code listings for ALX interview questions. The code lis
 
 ## Topics
 
-**The topics are listed below:**
+**The topics are listed in order below:**
 *Click on any of them to view the code listings for that topic.*
 
 - [Pascals Triangle](pascals_triangle)
